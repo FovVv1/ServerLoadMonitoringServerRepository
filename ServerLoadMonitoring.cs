@@ -47,6 +47,7 @@ namespace ServerLoadMonitoringServer
             AllCommands.TryAdd("UpdateListOfMetricsSource", new UpdateListOfMetricsSource());
             AllCommands.TryAdd("UpdateReadyMetrics", new UpdateReadyMetrics());
             AllCommands.TryAdd("GetReadyMetrics", new GetReadyMetrics());
+            AllCommands.TryAdd("GetTasksFromTaskManager", new GetTasksFromTaskManager());
 
         }
 

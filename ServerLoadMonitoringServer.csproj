@@ -66,6 +66,7 @@
     <Compile Include="Commands\CollectNewMetrics.cs" />
     <Compile Include="Commands\GetReadyMetrics.cs" />
     <Compile Include="Commands\GetServerLoadMonitoringData.cs" />
+    <Compile Include="Commands\GetTasksFromTaskManager.cs" />
     <Compile Include="Commands\RefreshData.cs" />
     <Compile Include="Commands\UpdateListOfMetricsSource.cs" />
     <Compile Include="Commands\UpdateReadyMetrics.cs" />
